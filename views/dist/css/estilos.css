@@ -1,0 +1,132 @@
+.user-header{
+  height: 135px;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  margin-top: 10px;
+}
+.user-footer {
+  background-color: #f9f9f9;
+  padding: 25px 5px;
+}
+.skin-blue{
+    background: #222d32;
+}
+
+.login-page {
+  background: #2d313e;
+  background-attachment: fixed;
+  background-position: top center;
+  background-repeat: no-repeat;
+  position: inherit;
+  text-align: center;
+  background-size: cover;
+}
+.login-box{
+  width: 360px;
+  margin: 7% auto;
+}
+.login-logo {
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 25px;
+  font-weight: 300;
+}
+.login-box-body {
+  background: #fff;
+  padding: 30px;
+  border-top: 0;
+  color: #666;
+  border-radius: 10px;
+}
+.login-box-msg {
+    margin: 0;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+}
+.content-header{
+  padding: 15px 15px 0 15px;
+}
+.titulo {
+  margin: 0;
+  text-align: left;
+
+}
+.paginacion {
+  margin: 0;
+}
+.btn-section{
+  margin-top: 5px;
+  margin-left: 12px;
+  text-align: left;
+}
+.tabla-section {
+  margin-top: 20px;
+}
+#highcharts {
+  min-width: 310px;
+  max-width: 800px;
+  height: 400px;
+  margin: 0 auto
+}
+.tituloModal {
+    background: rgb(96, 92, 168);
+    color: #fff;
+}
+.tituloModal span {
+  color: #fff;
+}
+.modal-body, .modal-footer {
+  background: #fff;
+}
+.table-striped button i {
+  width: 100%;
+}
+.passIncorrecta, .EpassIncorrecta, .passIncorrectaUsuario, .EpassIncorrectaUsuario {
+  font-size: 13px;
+  margin-top: 5px;
+  display: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+/* Header */
+.logoSA {
+  width: 100%;
+}
+#sidebar {
+  box-shadow: 4px 0 20px 0 rgba(0, 0, 0, 0.2);
+}
+#header-nav {
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2);
+}
+.activo {
+  background: #707070;
+  color: #fff;
+}
+.desactivado {
+  background: #fff;
+  color: #000;
+}
+.menu-acordeon, #crearCentro {
+  border: 1px solid #ccc;
+  padding: 0;
+  height: 400px;
+  width: 178px;
+  display: inline-block;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.1)
+}
+.menu-acordeon button {
+  margin-top: 10px;
+  width: 100%;
+}
+#crearCentro, #crearUsuario, #infoUsuario, #infoUsuarioCliente, #infoEquipo, #propiedadesCentroCliente {
+  border: 1px solid #ccc;
+  display: inline-block;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.1);
+  padding: .7em;
+  height: 400px;
+  width: 350px;
+}
+#crearCentro label, #crearUsuario label, #infoUsuario label, #infoUsuarioCliente label, #infoEquipo label, #propiedadesCentroCliente label {
+  text-align: left;
+}
